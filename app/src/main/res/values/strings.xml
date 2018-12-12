@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie app</string>
+    <string name="api_key">3f240f7d8a4b186fa413732eeb4146ea</string>
+    <string name="most_popular">popularity.desc</string>
+    <string name="top_rated">vote_average.desc</string>
+    <string name="pop">Most Popular</string>
+    <string name="rate">Top Rated</string>
+    <string name="fav">Favorate</string>
+    <string name="rate2">Favorates</string>
+</resources>
